@@ -5,6 +5,8 @@ import { vitePrerenderPlugin } from "vite-prerender-plugin";
 import { resolve } from "node:path";
 
 export default defineConfig({
+  base: "/rimarioeletricista/", // 👈 ADICIONA ISSO AQUI
+
   plugins: [
     react(),
     tailwindcss(),
@@ -23,4 +25,3 @@ export default defineConfig({
     }),
   ],
 });
-
