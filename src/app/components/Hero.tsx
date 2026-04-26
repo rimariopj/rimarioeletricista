@@ -1,6 +1,6 @@
 import { Phone, Clock, AlertTriangle } from "lucide-react";
-import logo from "../src/assets/Primus1.png";
-import heroBg from "../src/assets/hero-bg-vt.png";
+import logo from "../../assets/Primus1.png";
+import heroBg from "../../assets/hero-bg-vt.png";
 
 type HeroProps = {
   headline?: string;
@@ -33,7 +33,7 @@ Serviço rápido, seguro e sem terceirização na Baixada Santista.`,
           <div className="mb-4">
             <img
               src={logo}
-              alt="Rimario Eletricista - Eletricista na Baixada Santista"
+              alt="Primus Elétrica - Eletricista na Baixada Santista"
               className="w-24 h-24 mx-auto opacity-90"
             />
           </div>
