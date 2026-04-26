@@ -70,7 +70,7 @@ Serviço rápido, seguro e sem terceirização na Baixada Santista.`,
           {/* CTAs */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
             <a
-              href="https://wa.me/5513997177485"
+              href="https://wa.me/5513992130719"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#FBBF24] hover:bg-[#f5b517] text-[#1E3A5F] px-8 py-4 rounded-lg font-semibold text-lg flex items-center gap-2 transition-all shadow-lg hover:shadow-xl"
