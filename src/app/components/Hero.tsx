@@ -33,7 +33,7 @@ Serviço rápido, seguro e sem terceirização na Baixada Santista.`,
           <div className="mb-4">
             <img
               src={logo}
-              alt="Primus Elétrica - Eletricista na Baixada Santista"
+              alt="Rimario Eletricista - Eletricista na Baixada Santista"
               className="w-24 h-24 mx-auto opacity-90"
             />
           </div>
