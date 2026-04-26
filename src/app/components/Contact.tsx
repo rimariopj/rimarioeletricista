@@ -22,7 +22,7 @@ export function Contact() {
 *Serviço:* ${formData.service}
 *Mensagem:* ${formData.message}`;
     
-    const whatsappUrl = `https://wa.me/5513997177485?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/5513992130719?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
     
     setFormData({ name: '', email: '', phone: '', service: '', message: '' });
